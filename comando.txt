@@ -1,0 +1,1 @@
+"C:\Windows\System32\cmd.exe" /k C:\xampp\php\php.exe -f C:\Users\JALVAREZ\Documents\tarea\index.php 0 0 0 0 0

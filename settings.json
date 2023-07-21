@@ -1,0 +1,20 @@
+{
+    "db_host_origen":"localhost",
+    "db_user_origen": "root",
+    "db_password_origen": "",
+    "db_database_origen": "asterisk",
+
+    "db_host_destino":"localhost",
+    "db_user_destino": "root",
+    "db_password_destino": "",
+    "db_database_destino": "tarea",
+
+    "parseo": {
+        "mesActual": 0,
+        "mesTrimestre1": 0,
+        "mesTrimestre2": 0,
+        "mesTrimestre3": 0,
+        "mesEstacional": 0,
+        "diaAnterior": 0
+    }
+}

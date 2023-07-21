@@ -1,0 +1,20 @@
+{
+    "db_host_origen":"172.16.10.10",
+    "db_user_origen": "cron",
+    "db_password_origen": "1234",
+    "db_database_origen": "asterisk",
+
+    "db_host_destino":"45.236.128.7",
+    "db_user_destino": "root",
+    "db_password_destino": "4c0br02023",
+    "db_database_destino": "panel",
+
+    "parseo": {
+        "mesActual": 0,
+        "mesTrimestre1": 0,
+        "mesTrimestre2": 0,
+        "mesTrimestre3": 0,
+        "mesEstacional": 0,
+        "diaAnterior": 0
+    }
+}
